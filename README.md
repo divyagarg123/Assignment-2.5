@@ -32,24 +32,5 @@ Loss = cross_entropy loss between only image prediction and true label. Not cons
 num correct is also as per correct image predictions.
 
 # Training Log:
-total_loss:  2.304561171849569 total_correct:  62922
-total_loss:  2.3041157370758056 total_correct:  62722
-total_loss:  2.298062359873454 total_correct:  67202
-total_loss:  2.2931556158447264 total_correct:  69152
-total_loss:  2.2928664020284018 total_correct:  69763
-total_loss:  2.302566183827718 total_correct:  62406
-total_loss:  2.3113403741200766 total_correct:  59008
-total_loss:  2.3077816186269122 total_correct:  59860
-total_loss:  2.3069199922943113 total_correct:  60141
-total_loss:  2.308131017735799 total_correct:  59625
-total_loss:  2.309306469599406 total_correct:  59937
-total_loss:  2.3080953948465983 total_correct:  60805
-total_loss:  2.3157895592753093 total_correct:  60643
-total_loss:  2.3204255466715495 total_correct:  58774
-total_loss:  2.317178121210734 total_correct:  56019
-total_loss:  2.307277942682902 total_correct:  60593
-total_loss:  2.3074359098815918 total_correct:  63477
-total_loss:  2.3088055672709147 total_correct:  61244
-total_loss:  2.3096833536020913 total_correct:  63407
-total_loss:  2.313846346537272 total_correct:  60793
-total_loss:  2.308768978093465 total_correct:  61927
+
+![image](https://user-images.githubusercontent.com/109232157/211129287-d5151730-73af-4594-ba3d-eb9848c283e3.png)
